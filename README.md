@@ -19,4 +19,4 @@ Next upgradation:
 - Advancing N8N with newer functionalities.
 
 
-YOU CAN CHECK THE DEMO VIDEO BY DOWNLOADING THE RAW mp4 file.
+YOU CAN CHECK THE DEMO BY DOWNLOADING THE RAW mp4 VIDEO FILE.
