@@ -17,3 +17,6 @@ Next upgradation:
 - Integrating whatsapp.
 - Building a UI for doctor where doctor can see latest and oast appointments and Patient history.
 - Advancing N8N with newer functionalities.
+
+
+YOU CAN CHECK THE DEMO VIDEO BY DOWNLOADING THE RAW mp4 file.
